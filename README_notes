@@ -1,0 +1,11 @@
+<a> tag anchors that is used to create hyperlinks in HTML, example
+    <a href="https://www.google.com">Google</a>
+
+<ul> opens an unorderedd list and <ul> closes the list
+    to add an item to the list use <li>
+</ul>, example
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
